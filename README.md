@@ -20,7 +20,8 @@ I'm passionate about building interactive and immersive experiences in **Unity**
 ### 🎮 Featured Game Development Projects:
 🐥 [**2D Flappy Bird Game**](https://github.com/SajjitStha/CovidKiller)  
 🦠 [**Covid Killer**](https://github.com/SajjitStha/CovidKiller)  
-🐍 [**Snake Game**](https://github.com/SajjitStha/CovidKiller)  
+🐍 [**Snake Game**](https://github.com/SajjitStha/CovidKiller)
+[**2D Shooting Game**](https://github.com/SajjitStha/2p-shooting-game)
 
 ---
 
