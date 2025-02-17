@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🎮 Hi, I'm Sajjit Shrestha 👋  
 
-<!--
-**SajjitStha/SajjitStha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Game Developer | Web Developer | Tech Enthusiast  
 
-Here are some ideas to get you started:
+I'm passionate about building interactive and immersive experiences in **Unity** and crafting stunning web applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools:
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-FA7600?style=for-the-badge&logo=blender&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🎮 Featured Game Development Projects:
+🐥 [**2D Flappy Bird Game**](https://github.com/SajjitStha/CovidKiller)  
+🦠 [**Covid Killer**](https://github.com/SajjitStha/CovidKiller)  
+🐍 [**Snake Game**](https://github.com/SajjitStha/CovidKiller)  
+
+---
+
+
