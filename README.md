@@ -21,12 +21,14 @@ I'm passionate about building interactive and immersive experiences in **Unity**
 
 ### PyGame Projects:
 🦠 [**Covid Killer**](https://github.com/SajjitStha/CovidKiller)  
+
 🐍 [**Snake Game**](https://github.com/SajjitStha/Snake-game)
 
 🔫 [**ShootingGame**](https://github.com/SajjitStha/2p-shooting-game)
 
 ### Unity Projects:
 🐥 [**2D Flappy Bird Game**](https://github.com/SajjitStha/Flappy-bird)
+
 😋[**3D Nepal Kitchen Game**](https://github.com/SajjitStha/Nepali-Kitchen-Game)
 
 
