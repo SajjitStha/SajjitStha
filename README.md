@@ -1,4 +1,4 @@
-# 🎮 Hi, I'm Sajjit Shrestha 👋  
+# Hi, I'm Sajjit Shrestha 👋  
 
 ### 🌟 Game Developer | Web Developer | Tech Enthusiast  
 
