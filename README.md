@@ -29,7 +29,7 @@ I'm passionate about building interactive and immersive experiences in **Unity**
 ### Unity Projects:
 🐥 [**2D Flappy Bird Game**](https://github.com/SajjitStha/Flappy-bird)
 
-😋 [**3D Nepal Kitchen Game|W-I-P|**](https://github.com/SajjitStha/Nepali_Kitchen_Game)
+😋 [**3D Nepal Kitchen Game](https://www.sajjitshrestha.com.np/#portfolio)
 
 
 ---
